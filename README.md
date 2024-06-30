@@ -12,7 +12,7 @@ I interpret user needs and incorporate them into my program throughout the entir
 and how my software should incorporate user input. Once I succesfully identify the requirements needed for the software at its final stages I can start to develop checking off each requirement after it has been implemented and thuroughly tested to ensure
 maximum efficiecy and error handeling.
 
-** How do I approach designing software? **
+- How do I approach designing software?
 
 My software desing approach is very user focused for ths software being developed is going to be used by the end user to solve some sort of problem they are having or offer solutions to problems they didnt even know they had. Through my very user centric
 approach I am able to identify areas in which I need to pay a particular amount of focus on to prevent the end user from having a bad user experience, I also like to remain very heavily focused on fulfilling all the requirements provided to me or identified
